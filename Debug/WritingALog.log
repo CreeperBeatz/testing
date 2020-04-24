@@ -1,0 +1,3 @@
+﻿  WritingALog.c
+C:\Users\danim\source\repos\WritingALog\WritingALog\WritingALog.c(11,2): warning C4091: 'typedef ': ignored on left of 'PhoneBook' when no variable is declared
+  WritingALog.vcxproj -> C:\Users\danim\source\repos\WritingALog\Debug\WritingALog.exe
